@@ -37,11 +37,3 @@
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-<div data-importer="stats" align="left">
-  <img src="https://streak-stats.demolab.com?user=thamiresnunes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-</p>
